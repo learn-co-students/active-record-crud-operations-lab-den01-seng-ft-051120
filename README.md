@@ -53,6 +53,7 @@ we just created. These tests will take you through:
 - A movie can be instantiated with a hash containing all of its attributes
 - A movie can be created in a block
 
+
 #### Read
 
 - You can return the first item in the table
